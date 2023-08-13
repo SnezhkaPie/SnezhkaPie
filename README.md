@@ -6,6 +6,6 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <[img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
+    <https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
   </a>
 </div>
