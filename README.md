@@ -5,7 +5,7 @@
   <a href="your-Discord-URL">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Twitter Badge"/>
      </a>
-  <a href="your-youtube-URL">
+  <a href="your-Gmail-URL">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
