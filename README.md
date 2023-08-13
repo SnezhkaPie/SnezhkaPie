@@ -11,7 +11,7 @@
   <a href="your-Telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <a href="your-VK-URL">
+    <a href="your-VK-https://vk.com/snezhopkatatarskaya">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
