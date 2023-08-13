@@ -3,6 +3,6 @@
 </div>
 <div id="badges">
   <a href="your-Discord-URL">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
