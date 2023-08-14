@@ -31,15 +31,23 @@ Cвязь со мной
 ---
 
 Профессиональные практики:
-- :telescope: *Системный дизайн  
-*Балансировка игр
-*Дизайн-документация
-*Google Docs
-*Google Sheets
-*GitLab, GitHub
-*SAI2
-*UE4
-*Blueprints
+- :telescope: Системный дизайн
+- Балансировка игр
+- Дизайн-документация
+- Google Docs
+- Google Sheets
+- Blueprints
+- UE4
+- GitLab, GitHub
+- SAI2
+
+
+
+
+
+
+
+
 
 
 
