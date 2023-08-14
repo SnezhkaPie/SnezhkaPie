@@ -36,7 +36,7 @@
 ---
 
 Профессиональные практики:
-- :heart: Системный дизайн
+- :sewing_needle: Системный дизайн
 - :orange_heart: Балансировка игр
 - :yellow_heart: Дизайн-документация
 - :yellow_heart: Google Docs
