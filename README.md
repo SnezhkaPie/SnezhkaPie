@@ -8,7 +8,9 @@
  <img src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg" width="700" height="200"/>
 </div>
 
-Cвязь со мной
+<div align="center">
+ Cвязь со мной
+</div>
 
 <div align="center">
   <a href="https://t.me/SnezhkaPie" target="_blank">
@@ -16,7 +18,6 @@ Cвязь со мной
   </a>
   <a href="https://vk.com/snezhopkatatarskaya" target="_blank">
    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-
 </div>
 
 ---
