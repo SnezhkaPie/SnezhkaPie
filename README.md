@@ -5,7 +5,6 @@
 ---
 
 <div align="center">
-  :woman_technologist: Обо мне:
   
    Я Junior game-designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 </div>
