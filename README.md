@@ -23,6 +23,7 @@ Cвязь со мной
 
 <div align="center">
   ### :woman_technologist: About Me :
+  
    Я Junior game-designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
   </a>
   
