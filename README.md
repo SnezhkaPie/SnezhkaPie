@@ -41,7 +41,7 @@
 - :coffee: Дизайн-документация
 -  Google Docs
 -  Google Sheets
--  Blueprints
+-  :hammer_and_wrench: Blueprints
 - :space_invader: UE4
 - :sparkles: GitLab, GitHub
 - :art: SAI2
