@@ -42,7 +42,7 @@
 - Google Docs
 - Google Sheets
 - Blueprints
-- UE4
+- :space_invader: UE4
 - GitLab, GitHub
 - SAI2
 
