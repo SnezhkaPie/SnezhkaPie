@@ -5,10 +5,6 @@
 ---
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg" width="700" height="200"/>
-</div>
-
-<div align="center">
  Cвязь со мной:
 </div>
 
@@ -21,6 +17,10 @@
   </a>
   <a href="mailto:snezkaplaygames3@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+</div>
+
+<div align="center">
+ <img src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg" width="700" height="200"/>
 </div>
 
 ---
