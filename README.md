@@ -13,7 +13,7 @@
   </a>
     <a href="https://vk.com/snezhopkatatarskaya" target="_blank">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
+<div id="badges">
