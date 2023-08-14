@@ -37,11 +37,11 @@
 
 Профессиональные практики:
 - :sewing_needle: Системный дизайн
-- :orange_heart: Балансировка игр
+-  Балансировка игр
 - :coffee: Дизайн-документация
-- :yellow_heart: Google Docs
-- :blue_heart: Google Sheets
-- :green_heart: Blueprints
+-  Google Docs
+-  Google Sheets
+-  Blueprints
 - :space_invader: UE4
 - :sparkles: GitLab, GitHub
 - :art: SAI2
