@@ -4,6 +4,7 @@
 <div id="badges">
 
   ---
+  <div align="center">
   Hey there👋
   
   ###💜связь со мной
