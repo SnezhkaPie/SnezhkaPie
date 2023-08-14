@@ -36,12 +36,12 @@
 ---
 
 Профессиональные практики:
-- :telescope: Системный дизайн
-- Балансировка игр
-- Дизайн-документация
-- Google Docs
-- Google Sheets
-- Blueprints
+- :heart: Системный дизайн
+- :orange_heart: Балансировка игр
+- :yellow_heart: Дизайн-документация
+- :yellow_heart: Google Docs
+- :blue_heart: Google Sheets
+- :green_heart: Blueprints
 - :space_invader: UE4
 - GitLab, GitHub
 - SAI2
