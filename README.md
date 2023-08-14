@@ -40,7 +40,7 @@
 - :balance_scale: Балансировка игр
 - :coffee: Дизайн-документация
 -  :books: Google Docs
--  Google Sheets
+-  :lightning: Google Sheets
 - :space_invader: Blueprints
 - :video_game: UE4
 - :sparkles: GitLab, GitHub
