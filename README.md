@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
- Cвязь со мной
+ Cвязь со мной:
 </div>
 
 <div align="center">
