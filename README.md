@@ -39,10 +39,10 @@
 -  Системный дизайн
 - :balance_scale: Балансировка игр
 - :coffee: Дизайн-документация
--  Google Docs
+-  :books: Google Docs
 -  Google Sheets
--  :hammer_and_wrench: Blueprints
-- :space_invader: UE4
+- :space_invader: Blueprints
+- :video_game: UE4
 - :sparkles: GitLab, GitHub
 - :art: SAI2
 
