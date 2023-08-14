@@ -4,7 +4,7 @@
 <div id="badges">
 
 <div align="center">
-Hey there👋
+Привет👋 Меня зовут Снежана!
   
 
 Cвязь со мной
