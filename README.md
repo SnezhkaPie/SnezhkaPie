@@ -36,11 +36,11 @@
 ---
 
 Профессиональные практики:
--  :four_leaf_clover: Системный дизайн
+- :four_leaf_clover: Системный дизайн
 - :balance_scale: Балансировка игр
 - :coffee: Дизайн-документация
--  :books: Google Docs
--  :lightning: Google Sheets
+- :books: Google Docs
+- :star2: Google Sheets
 - :space_invader: Blueprints
 - :video_game: UE4
 - :sparkles: GitLab, GitHub
