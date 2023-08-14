@@ -1,12 +1,11 @@
 <div align="center">
 Привет👋 Меня зовут Снежана!
-</div> 
 
 ---
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg" width="700" height="200"/>
-
+</div>
 
 Cвязь со мной
 
