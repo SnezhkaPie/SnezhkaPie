@@ -33,7 +33,6 @@
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
 
-
 ---
 
 <h3>
@@ -50,7 +49,10 @@
 - :sparkles: GitLab, GitHub
 - :art: SAI2
 
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
