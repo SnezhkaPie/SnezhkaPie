@@ -62,7 +62,7 @@
 
 -Сертификат об обучении "Геймдизайнер" 
    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnezhkaPie=anuraghazra&repo=Certificate=github-readme-stats)(https://github.com/SnezhkaPie/Certificate/blob/main/certificate.pdf)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnezhkaPie=anuraghazra&repo=Certificate=github-readme-stats)](https://github.com/SnezhkaPie/Certificate/blob/main/certificate.pdf)
 
 -Справка об освоении разделов программы курса Нетологии "Гейм-дизайнер"
 
