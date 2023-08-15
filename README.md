@@ -62,7 +62,7 @@
 <ul>
 Сертификат об обучении "Геймдизайнер" 
    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?SnezhkaPie=anuraghazra&Certificate=github-readme-stats)](https://github.com/SnezhkaPie/Certificate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnezhkaPie=anuraghazra&repo=Certificate=github-readme-stats)](https://github.com/SnezhkaPie/Certificate)
 
 
 
