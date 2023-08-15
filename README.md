@@ -60,7 +60,9 @@
 :trophy: Мои достижения :
 </h3>
 <ul>
-Сертификат об обучении "Геймдизайнер" [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?SnezhkaPieanuraghazra&Certificategithub-readme-stats)](https://github.com/SnezhkaPie/Certificate)
+Сертификат об обучении "Геймдизайнер" 
+   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?SnezhkaPie=anuraghazra&Certificate=github-readme-stats)](https://github.com/SnezhkaPie/Certificate)
 
 
 
