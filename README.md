@@ -59,6 +59,8 @@
 <h3>
 :trophy: Мои достижения :
 </h3>
+<ul>
+ <li> Сертификат об обучении "Геймдизайнер" https://disk.yandex.ru/d/ic8yJlEDwyeKAQ </li>
 
 
 
