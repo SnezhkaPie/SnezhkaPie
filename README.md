@@ -57,6 +57,12 @@
 ---
 
 <h3>
+:hatching_chick: Мои работы :
+</h3>
+
+---
+
+<h3>
 :trophy: Мои достижения :
 </h3>
 
@@ -67,10 +73,3 @@
 -Справка об освоении разделов программы курса Нетологии "Гейм-дизайнер"
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnezhkaPie=anuraghazra&repo=ReferenceNetology=github-readme-stats)](https://github.com/SnezhkaPie/ReferenceNetology/blob/main/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.pdf)
-
-
-
-
-
-
-
