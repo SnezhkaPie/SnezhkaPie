@@ -68,7 +68,8 @@
 - Сценарий диалогов и реплик: https://docs.google.com/document/d/1ZXBqsTsLTuM7kelPPMI8LCNvf7wiLV1NuVXxVJTa4ho/edit?usp=sharing
 
 - Билд прототипа (ЯндексДиск): https://disk.yandex.ru/d/ic8yJlEDwyeKAQ
-
+  
+ [билд](https://disk.yandex.ru/d/ic8yJlEDwyeKAQ)
 ---
 
 <h3>
