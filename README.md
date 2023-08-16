@@ -56,7 +56,7 @@
 </h3>
 
 <h4>
-Курсовой прототип "Steve"
+:brain: Курсовой прототип "Steve" :zombie:
 </h4>
 
 -Концепт-документ: https://docs.google.com/document/d/1Ou2Z4WsVAqzrMCECIfj9Hz5iXpnm9PCyciXNROqMelM/edit?usp=sharing
