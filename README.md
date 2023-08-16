@@ -67,6 +67,7 @@
 
 Билд прототипа (ЯндексДиск): https://disk.yandex.ru/d/ic8yJlEDwyeKAQ
 
+curl -i https://git.io -F "url=https://disk.yandex.ru/d/ic8yJlEDwyeKAQ" -F "соde=arch1.sh"
 ---
 
 <h3>
