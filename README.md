@@ -55,7 +55,9 @@
 :hatching_chick: Мои работы :
 </h3>
 
+<h2>
 Курсовой прототип "Steve"
+</h2>
 
 -Концепт-документ: https://docs.google.com/document/d/1Ou2Z4WsVAqzrMCECIfj9Hz5iXpnm9PCyciXNROqMelM/edit?usp=sharing
 
