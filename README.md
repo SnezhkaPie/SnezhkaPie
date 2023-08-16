@@ -59,15 +59,15 @@
 :brain: Курсовой прототип "Steve" :zombie:
 </h4>
 
-- [Концепт-документ](https://docs.google.com/document/d/1Ou2Z4WsVAqzrMCECIfj9Hz5iXpnm9PCyciXNROqMelM/edit?usp=sharing)
+- [Концепт-документ.](https://docs.google.com/document/d/1Ou2Z4WsVAqzrMCECIfj9Hz5iXpnm9PCyciXNROqMelM/edit?usp=sharing)
 
-- [Таблица балланса](https://docs.google.com/spreadsheets/d/1t6IbZywzcduTLGklTJ-s08wk6IIWqyYBXpxFlX_7dRY/edit?usp=sharing)
+- [Таблица балланса.](https://docs.google.com/spreadsheets/d/1t6IbZywzcduTLGklTJ-s08wk6IIWqyYBXpxFlX_7dRY/edit?usp=sharing)
 
-- [Лог развития прототипа](https://docs.google.com/document/d/1YszgloJyFqp4z-tIgA0W34cH0JB9THL9Kk7UhGi_4Zo/edit?usp=sharing)
+- [Лог развития прототипа.](https://docs.google.com/document/d/1YszgloJyFqp4z-tIgA0W34cH0JB9THL9Kk7UhGi_4Zo/edit?usp=sharing)
 
-- [Сценарий диалогов и реплик](https://docs.google.com/document/d/1ZXBqsTsLTuM7kelPPMI8LCNvf7wiLV1NuVXxVJTa4ho/edit?usp=sharing)
+- [Сценарий диалогов и реплик.](https://docs.google.com/document/d/1ZXBqsTsLTuM7kelPPMI8LCNvf7wiLV1NuVXxVJTa4ho/edit?usp=sharing)
 
-- [Билд прототипа(ЯндексДиск)](https://disk.yandex.ru/d/ic8yJlEDwyeKAQ)
+- [Билд прототипа(ЯндексДиск).](https://disk.yandex.ru/d/ic8yJlEDwyeKAQ)
   
 
 ---
