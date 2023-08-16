@@ -55,6 +55,11 @@
 :hatching_chick: Мои работы :
 </h3>
 
+Курсовой проект "Steve":
+
+-Концепт документ: https://docs.google.com/document/d/1Ou2Z4WsVAqzrMCECIfj9Hz5iXpnm9PCyciXNROqMelM/edit?usp=sharing
+
+
 ---
 
 <h3>
