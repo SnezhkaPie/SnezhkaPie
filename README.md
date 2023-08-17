@@ -60,37 +60,23 @@
 </h4>
 
 - [Концепт-документ.](https://docs.google.com/document/d/1Ou2Z4WsVAqzrMCECIfj9Hz5iXpnm9PCyciXNROqMelM/edit?usp=sharing)
-
 - [Таблица балланса.](https://docs.google.com/spreadsheets/d/1t6IbZywzcduTLGklTJ-s08wk6IIWqyYBXpxFlX_7dRY/edit?usp=sharing)
-
 - [Лог развития прототипа.](https://docs.google.com/document/d/1YszgloJyFqp4z-tIgA0W34cH0JB9THL9Kk7UhGi_4Zo/edit?usp=sharing)
-
 - [Сценарий диалогов и реплик.](https://docs.google.com/document/d/1ZXBqsTsLTuM7kelPPMI8LCNvf7wiLV1NuVXxVJTa4ho/edit?usp=sharing)
-
 - [Билд прототипа(ЯндексДиск).](https://disk.yandex.ru/d/ic8yJlEDwyeKAQ)
 
 Курсовая документация проекта "Everlon"
 
 - [Концепт-документ.](https://docs.google.com/document/d/1fKDFwDBExRTwBQYzuzDG7vY78KwGxgkdlIBX8j03Qzk/edit?usp=sharing)
-
 - [Структура мира игры.](https://docs.google.com/document/d/1OrctWoVKZL91E3_7rjZUpa6X7m68tfK6b0TNtmq5Clc/edit?usp=sharing)
-
 - [Roadmap.](https://docs.google.com/document/d/1k4XqV8uxaKOmef7B2z07d5nk4P0JoQElDtfmQt9IERc/edit?usp=sharing)
-
 - [User Flow.](https://docs.google.com/document/d/1KhPSPYaXqPmy-yei_UFC7Xx6-8_MPCP8P74c_gTT-Os/edit?usp=sharing)
-
 - [Питч-презентация.](https://docs.google.com/presentation/d/1dBNkZ9JsUFkKcl2UzrKm6HelQwR26qTwfuYPUiID2S0/edit?usp=sharing)
-
 - [Система характеристик персонажа.](https://docs.google.com/document/d/1OIE8w342HZvKOdsCw3UMWgUFzz8hGsrnOZ-bR2GUhLo/edit?usp=sharing)
-
 - [Система экономики и ресурсов.](https://docs.google.com/document/d/1MUVkC1ENq6iDIKeABZHI2Cer-8NmeTI9jLfK03wO9aU/edit?usp=sharing)
-
 - [Снаряжение персонажа.](https://docs.google.com/document/d/1-A5z_3tb3t_Wvkf6OTKF5Z1SZ2D8M3TakxjyLr6SRds/edit?usp=sharing)
-
 - [Способности персонажа.](https://docs.google.com/document/d/16sA-94Wb69_CKp5Q8JJI8ZAY8dgKCfZuk1TiEDaXgZY/edit?usp=sharing)
-
 - [Философия баланса.](https://docs.google.com/document/d/1TCYutO60b6-wRaqqOH4ae4VB6U9GESCCBO-rirdclsY/edit?usp=sharing)
-
 - [Верхнеуровневый ГДД.](https://docs.google.com/document/d/11jmwQtxqy2BC6zomrOa7VCLAqTI5YPTwViwQp2wUm7E/edit?usp=sharing)
 
   Таблицы
