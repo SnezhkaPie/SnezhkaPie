@@ -55,6 +55,11 @@
 :hatching_chick: Мои работы :
 </h3>
 
+<h5>
+!примечание! 
+выставленны не все работы с документами ибо показались незначительными
+</h5>
+
 <h4>
 :brain: Курсовой прототип "Steve" :zombie:
 </h4>
@@ -65,7 +70,9 @@
 - [Сценарий диалогов и реплик.](https://docs.google.com/document/d/1ZXBqsTsLTuM7kelPPMI8LCNvf7wiLV1NuVXxVJTa4ho/edit?usp=sharing)
 - [Билд прототипа(ЯндексДиск).](https://disk.yandex.ru/d/ic8yJlEDwyeKAQ)
 
+<h4>
 Курсовая документация проекта "Everlon"
+</h4>
 
 - [Концепт-документ.](https://docs.google.com/document/d/1fKDFwDBExRTwBQYzuzDG7vY78KwGxgkdlIBX8j03Qzk/edit?usp=sharing)
 - [Структура мира игры.](https://docs.google.com/document/d/1OrctWoVKZL91E3_7rjZUpa6X7m68tfK6b0TNtmq5Clc/edit?usp=sharing)
