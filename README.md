@@ -96,9 +96,7 @@
   Таблицы
 
 - [Таблица боевой системы.](https://docs.google.com/spreadsheets/d/1zdbzbxpH1LlfCbCw2P-EM4DUgXc_ompk5R_aEQnY7oQ/edit?usp=sharing)
-
 - [игровой контент.](https://docs.google.com/spreadsheets/d/1sRYnwzS6QLzS9atDlX9bT8Vpkj93bQlctijheDgRz-E/edit?usp=sharing)
-
 - [характеристики игрока.](https://docs.google.com/spreadsheets/d/1Lb9ottkoa-jXwLDWk05SWEQy8Fjuhh3I6Dxe4kF9Z5g/edit?usp=sharing)
 
 ---
