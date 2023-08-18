@@ -86,7 +86,7 @@
 - [Философия баланса.](https://docs.google.com/document/d/1TCYutO60b6-wRaqqOH4ae4VB6U9GESCCBO-rirdclsY/edit?usp=sharing)
 - [Верхнеуровневый ГДД.](https://docs.google.com/document/d/11jmwQtxqy2BC6zomrOa7VCLAqTI5YPTwViwQp2wUm7E/edit?usp=sharing)
 
-  Таблицы
+  :star2: Таблицы:
 
 - [Таблица боевой системы.](https://docs.google.com/spreadsheets/d/1zdbzbxpH1LlfCbCw2P-EM4DUgXc_ompk5R_aEQnY7oQ/edit?usp=sharing)
 - [игровой контент.](https://docs.google.com/spreadsheets/d/1sRYnwzS6QLzS9atDlX9bT8Vpkj93bQlctijheDgRz-E/edit?usp=sharing)
