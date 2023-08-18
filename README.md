@@ -71,7 +71,7 @@
 - [Билд прототипа(ЯндексДиск).](https://disk.yandex.ru/d/ic8yJlEDwyeKAQ)
 
 <h4>
-Курсовая документация проекта "Everlon"
+:crossed_swords: Курсовая документация проекта "Everlon" :pistol:
 </h4>
 
 - [Концепт-документ.](https://docs.google.com/document/d/1fKDFwDBExRTwBQYzuzDG7vY78KwGxgkdlIBX8j03Qzk/edit?usp=sharing)
