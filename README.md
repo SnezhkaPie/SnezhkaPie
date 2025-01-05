@@ -94,20 +94,6 @@
 
 ---
 
-<h3>
-:trophy: Мои достижения :
-</h3>
-
--Сертификат об обучении "Геймдизайнер" 
-   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnezhkaPie=anuraghazra&repo=Certificate=github-readme-stats)](https://github.com/SnezhkaPie/Certificate/blob/main/certificate.pdf)
-
--Справка об освоении разделов программы курса Нетологии "Гейм-дизайнер"
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnezhkaPie=anuraghazra&repo=ReferenceNetology=github-readme-stats)](https://github.com/SnezhkaPie/ReferenceNetology/blob/main/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.pdf)
-
----
-
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SnezhkaPie&theme=midnight-purple&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&locale=ru)](https://git.io/streak-stats)
 
